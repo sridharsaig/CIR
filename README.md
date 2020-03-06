@@ -5,6 +5,8 @@ This project - also known as "Height Estimator" is a developmental project built
 
 The Project Blog gives further insight of this project and stage of its development. Hence it is advised to refer the Project Blog for better information over this project.
 
+Redistribuition of the script files are supportive of the conditions of Pytorch3D as retained by the LICENSE document.  
+
 This is in development in QLAB (Makerspace Lab), Queen's University Belfast.
 
 
