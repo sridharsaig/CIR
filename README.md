@@ -1,7 +1,7 @@
-# CIR - opus - Height Estimator 
+# CIR - Opus - Height Estimator 
 
 Camera Information Retriever (CIR) is a project built upon Pytorch3D in QLAB (Makerspace Lab), Queen's University Belfast.
-
+ 
 Modified_Camera_Positioner (VP : Virtuality Positioner) is the core actual project in this git repository - opus built upon Pytorch3D's Camera Position Optimizer to retrieve camera position. 
 
 This space focusses on concising installation requirements of the positioner with it's supportive versions and documenting the API & citations -
