@@ -6,7 +6,7 @@ In brief, CIR is designed to retrieve the 3D position of the camera that produce
 
 The project aims to become an implement to reconstruct scenes for forensic purposes ranging from crime investigation to scientific applications in the real world.  
 
-That said, this space focusses on concising the installation requirements of the retriever with it's supportive versions and documents the API & citations of the project -
+That said, this space focusses on concising the installation requirements of the retriever with it's supportive versions and documents the API & citations of the project.
 
 The [Project-Blog](Project-Blog) gives further insight of the project surplus the journey of developing this conception.
 
