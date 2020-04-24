@@ -2,7 +2,7 @@
 
 Camera Information Retriever (CIR) is a Pytorch3D project developed in QLAB-Makerspace, Queen's University Belfast.
 
-In brief, CIR is developed to retrieve the 3D position of the camera that produced a given 2D image in a virtual atmosphere. This information is naturally then used to reconstruct the exact scene in virtuality by a 3D development tool like Blender.
+In brief, CIR is developed to retrieve the 3D position of the camera that produced a given 2D image in a virtual atmosphere. This information is naturally used to reconstruct the imagery scene in virtuality by a 3D development tool like Blender.
 
 This space focusses on concising the installation requirements of the retriever with it's supportive versions and documenting the API & citations of the project -
 
