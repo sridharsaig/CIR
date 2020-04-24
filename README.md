@@ -1,4 +1,4 @@
-# CIR - opus - Height Estimator 
+# CIR 
 
 Camera Information Retriever (CIR) is a Pytorch3D project developed in QLAB-Makerspace, Queen's University Belfast.
 
