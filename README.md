@@ -20,7 +20,7 @@ The following operating systems and libraries with quoted versions are supportiv
    * fvcore
    * CUDA >= 9.2 
 
-In detail, to install the above libraries [INSTALL.md] (#INSTALL.md) is preferrable. In addition, libraries towards development of the project / altering the source codes can be installed under the same md. 
+In detail, to install the above libraries [INSTALL.md] (#Modified_Camera_Positioner/INSTALL.md) is preferrable. In addition, libraries towards development of the project / altering the source codes can be installed under the same md. 
   
 ## Documentation -
 
@@ -36,7 +36,7 @@ The below are deep dive notes for the project in detail -
 ## License - 
 
 Redistribuition of the script files are supportive of the conditions of Pytorch3D as retained by the LICENSE document.  
-- [LICENSE.md](#docs/LICENSE.md)
+- [LICENSE.md](#Modified_Camera_Positioner/LICENSE.md)
 
 ## Citations
 
