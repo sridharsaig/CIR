@@ -20,7 +20,7 @@ The following operating systems and libraries with quoted versions are supportiv
    * fvcore
    * CUDA >= 9.2 
 
-In detail, to install the above libraries [INSTALL.md] (#INSTALL.md) is preferrable. In addition, libraries towards development of the project / altering the source code can be installed under the same md. 
+In detail, to install the above libraries [INSTALL.md] (#INSTALL.md) is preferrable. In addition, libraries towards development of the project / altering the source codes can be installed under the same md. 
   
 ## Documentation -
 
@@ -33,12 +33,12 @@ The below are deep dive notes for the project in detail -
 * [Differentiable Rendering] (#) 
 
 
-## License 
+## License - 
 
 Redistribuition of the script files are supportive of the conditions of Pytorch3D as retained by the LICENSE document.  
-- [LICENSE.md](#LICENSE.md)
+- [LICENSE.md](#docs/LICENSE.md)
 
-## Citation
+## Citations
 
 The following creators are cited here in 2020 for the development of Pytorch3D obliquely forming the root of the development of this project.
 
