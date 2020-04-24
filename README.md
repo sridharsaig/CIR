@@ -6,7 +6,7 @@ In brief, the project steps on achieveing successful reconstruction of the condi
 
 This space focusses on concising installation requirements of the opus with it's supportive versions and documents the API & citations from Pytorch3D -
 
-The Project Blog gives further insight of the project surplus the journey of developing this conception.
+The [Project_Blog](INSTALL.md) gives further insight of the project surplus the journey of developing this conception.
 
 ## Installation -
 
