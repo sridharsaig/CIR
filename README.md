@@ -2,9 +2,9 @@
 
 Height Estimator is a project built upon Pytorch3D in QLAB (Makerspace Lab), Queen's University Belfast.
 
-In brief, the project steps on achieveing successful reconstruction of the conditions of a 3D scene & evaluation of height of an object - given a native image of the selfsame scene and it's Wavefront obj file.
+In brief, the project steps on achieveing successful reconstruction of the conditions of a 3D scene using the core Modified_Camera_Positioner. Thereby, it aims to evaluate the height of an object given a native image of the selfsame scene and it's Wavefront obj file.
 
-Modified_Camera_Positioner (VP : Virtuality Positioner) is the core actual project of thet opus built upon Pytorch3D's Camera Position Optimization to retrieve camera position. 
+Modified_Camera_Positioner (VP : Virtuality Positioner) is the core actual project in this git repository - opus built upon Pytorch3D's Camera Position Optimizer to retrieve camera position. 
 
 This space focusses on concising installation requirements of the positioner with it's supportive versions and documenting the API & citations -
 
