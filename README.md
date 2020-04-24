@@ -1,9 +1,30 @@
 # Modified-Camera_Position_Optimizer
-This is a developmental Camera Position Optimizer built from Facebook's AI Research
 
-This project - also known as "Height Estimator" is a developmental project built upon Pytorch3D. The aim of this project is to extract the height of an entity in a given Accessible 3D Scenario like a crime investigation scene. 
+Height Estimator is a project built upon Pytorch3D in QLAB (Makerspace Lab), Queen's University Belfast.
 
-The Project Blog gives further insight of this project and stage of its development. Hence it is directed to refer the Project Blog for overall information of this project.
+In brief, the project is implemented towards achieveing successful reconstruction of the conditions of a 3D scene given a native image of the selfsame scene and a wavefront format file.
+
+The Project Blog gives further insight of the project surplus the journey of developing this conception.
+
+This space focusses on the installation of the requirements of the project with supportive versions & documentation.
+
+## Installation
+
+The following versions of libraries are core essentials of the project :
+ 
+*    scikit-image
+*    black
+*    isort
+*    flake8
+*    matplotlib
+*    tdqm
+*    jupyter
+*    imageio
+
+
+
+
+
 
 Redistribuition of the script files are supportive of the conditions of Pytorch3D as retained by the LICENSE document.  
 
