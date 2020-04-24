@@ -36,7 +36,7 @@ The below are deep dive notes for the project in detail -
 ## License - 
 
 Redistribuition of the script files are supportive of the conditions of Pytorch3D as retained by the LICENSE document.  
-- [LICENSE.md](Modified_Camera_Positioner/LICENSE)
+- [LICENSE.md](LICENSE)
 
 ## Citations
 
