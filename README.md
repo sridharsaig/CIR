@@ -1,4 +1,4 @@
-# Modified_Camera_Positioner - opus - Height Estimator 
+# Virtual_Camera_Positioner - opus - Height Estimator 
 
 Height Estimator is a project built upon Pytorch3D in QLAB (Makerspace Lab), Queen's University Belfast.
 
