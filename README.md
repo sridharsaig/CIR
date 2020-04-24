@@ -1,4 +1,4 @@
-# Modified_Camera_Position_Optimizer [-Height Estimator-]
+# Modified_Camera_Positioner - Extensive - Height Estimator 
 
 Height Estimator is a project built upon Pytorch3D in QLAB (Makerspace Lab), Queen's University Belfast.
 
