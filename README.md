@@ -10,7 +10,7 @@ The Project Blog gives further insight of the project surplus the journey of dev
 
 ## Installation -
 
-The following operating systems and libraries with quoted versions are requisites of the project :
+The following operating systems and libraries with quoted versions are supportive requisites of the project :
  
    * Linux or macOS or Windows
    * Python ≥ 3.6
@@ -20,7 +20,7 @@ The following operating systems and libraries with quoted versions are requisite
    * fvcore
    * CUDA >= 9.2 
 
-In detail, to install the above libraries [Install.md] (#INSTALL.md) is preferrable. In addition, libraries towards development of the project / altering the source code can be installed under the same md. 
+In detail, to install the above libraries [INSTALL.md] (#INSTALL.md) is preferrable. In addition, libraries towards development of the project / altering the source code can be installed under the same md. 
   
 ## Documentation -
 
@@ -36,7 +36,7 @@ The below are deep dive notes for the project in detail -
 ## License 
 
 Redistribuition of the script files are supportive of the conditions of Pytorch3D as retained by the LICENSE document.  
-- [License.md](#LICENSE.md)
+- [LICENSE.md](#LICENSE.md)
 
 ## Citation
 
