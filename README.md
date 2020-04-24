@@ -29,7 +29,7 @@ The complete API of the git can be didacted in the documentation - https://pytor
 
 The below are deep dive notes for the integral classes in this project in detail -
 
-* [INSTALL.md](INSTALL.md)
+* [Heterogeneous Batching](docs/notes/batching.md)
 * [Heterogeneous Batching] (docs/notes/batching.md) 
 * [Mesh IO] (docs/notes/meshes_io.md) 
 * [Differentiable Rendering] (docs/notes/renderer_getting_started.md) 
