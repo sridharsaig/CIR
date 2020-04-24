@@ -2,7 +2,7 @@
 
 Height Estimator is a project built upon Pytorch3D in QLAB (Makerspace Lab), Queen's University Belfast.
 
-In brief, the project steps on achieveing successful reconstruction of the conditions of a 3D scene given a native image of the selfsame scene and it's Wavefront obj file.
+In brief, the project steps on achieveing successful reconstruction of the conditions of a 3D scene & evaluation of heights of objects given a native image of the selfsame scene and it's Wavefront obj file.
 
 This space focusses on concising installation requirements of the opus with it's supportive versions and documenting the API & citations -
 
