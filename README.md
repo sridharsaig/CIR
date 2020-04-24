@@ -1,15 +1,13 @@
 # CIR - opus - Height Estimator 
 
-Camera Information Retriever (CIR) is a project developed in QLAB-Makerspace, Queen's University Belfast.
+Camera Information Retriever (CIR) is a Pytorch3D project developed in QLAB-Makerspace, Queen's University Belfast.
 
-Built upon Pytorch3D, the project is designed to output the 3D position of a camera that produced the 2D image. The position is then supposed to be used in  
+It is developed to retrieve the 3D position of the camera that produced a given 2D image in a virtual atmosphere. This information is naturally then used to reconstruct the exact scene in virtuality by a 3D development tool like Blender. 
 
 
 This space focusses on concising installation requirements of the retriever with it's supportive versions and documenting the API & citations -
 
 The [Project-Blog](Project-Blog) gives further insight of the project surplus the journey of developing this conception.
-
-The project is 
 
 ## Installation -
 
