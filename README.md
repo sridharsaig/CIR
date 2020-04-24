@@ -40,7 +40,7 @@ Redistribuition of the script files are supportive of the conditions of Pytorch3
 
 ## Citation
 
-The following creators cited here in 2020 for the development of Pytorch3D consequently forming the root of the development of this project.
+The following creators are cited here in 2020 for the development of Pytorch3D obliquely forming the root of the development of this project.
 
 ```
 @misc{ravi2020pytorch3d,
