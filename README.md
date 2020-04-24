@@ -1,10 +1,10 @@
-# Modified_Camera_Positioner - Extensive - Height Estimator 
+# Modified_Camera_Positioner - Code-Named - Height Estimator 
 
 Height Estimator is a project built upon Pytorch3D in QLAB (Makerspace Lab), Queen's University Belfast.
 
-In brief, the project is an implement towards achieveing successful reconstruction of the conditions of a 3D scene given a native image of the selfsame scene and a wavefront obj format file.
+In brief, the project steps towards achieveing successful reconstruction of the conditions of a 3D scene given a native image of the selfsame scene and it's Wavefront obj file.
 
-This space focusses on concising installation requirements with supportive versions and documents the API & citations from Pytorch3D -
+This space focusses on concising installation requirements of the opus with supportive versions and documents the API & citations from Pytorch3D -
 
 The Project Blog gives further insight of the project surplus the journey of developing this conception.
 
