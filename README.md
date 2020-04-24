@@ -27,7 +27,7 @@ In detail, to install the above libraries direct into - [INSTALL.md](INSTALL.md)
 
 The complete API of the git can be didacted in the documentation - https://pytorch3d.readthedocs.io/en/latest/
 
-The below are deep dive notes for the project in detail -
+The below are deep dive notes for the integral classes in this project in detail -
 
 * [Heterogeneous Batching] (#) 
 * [Mesh IO] (#) 
