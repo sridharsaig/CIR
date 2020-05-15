@@ -21,7 +21,7 @@ The following operating systems and libraries with quoted versions are supportiv
    * fvcore
    * CUDA >= 9.2 
 
-In detail, to install the above libraries direct into - [INSTALL.md](INSTALL.md). In addition, libraries towards development of the project / altering the source codes can be installed under the same md. 
+In detail, to install the above libraries direct into - [INSTALL.md](INSTALL.md). Libraries towards development of the project / altering the code can be installed under the same md. 
 - [INSTALL.md](INSTALL.md)
   
 ## Documentation -
